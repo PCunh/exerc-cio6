@@ -1,0 +1,1 @@
+# Desenvolva um programa que cria e manipula um arquivo binário para armazenar registros de funcionários. Cada registro deve conter nome, idade e salário. Permita ao usuário adicionar novos registros, listar todos os registros e buscar por registros específicos pelo nome.
